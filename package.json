@@ -1,0 +1,13 @@
+{
+  "name": "database",
+  "version": "0.1",
+  "description": "A distributed database",
+  "main": "dist/database.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anon-files/database.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
